@@ -13,7 +13,6 @@ namespace NUnitTests
         [Test]
         public void SumOfTwoNumbers()
         {
-            //test
             Assert.AreEqual(10, 5 + 5);
         }
 
