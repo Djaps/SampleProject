@@ -1,0 +1,5 @@
+NUnitTests/bin/Debug/
+NUnitTests/obj/Debug/
+SampleProject/bin/Debug/
+SampleProject/obj/Debug/
+*.suo
