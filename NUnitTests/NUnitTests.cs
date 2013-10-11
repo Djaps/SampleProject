@@ -19,7 +19,7 @@ namespace NUnitTests
         [Test]
         public void AreTheValuesTheSame()
         {
-            Assert.AreSame(10, 5 + 6);
+            Assert.AreSame(11, 5 + 6);
         }
     }
 }
