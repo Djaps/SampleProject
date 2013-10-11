@@ -10,6 +10,7 @@ namespace SampleProject
     {
         static void Main(string[] args)
         {
+            //Test
             Console.Write("Press enter to exit... ");
             Console.ReadLine();
         }
