@@ -1,0 +1,1 @@
+nunit-console /xml:results.xml NUnitTests\bin\Debug\NUnitTests.dll
